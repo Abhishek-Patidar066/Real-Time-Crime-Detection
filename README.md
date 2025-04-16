@@ -22,7 +22,7 @@ The Flask web application allows users to interact with the crime detection mode
 
 To get started with this project, please follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rashant/Real-time-crime-detection.git`
+1. Clone the repository: `git clone https://github.com/Abhishek-Patidar066/Real-Time-Crime-Detection`
 2. Install the required dependencies by running: `pip install -r requirements.txt`
 3. Ensure that you have Python and Flask installed on your system.
 4. Run the Flask web application using the command: `python app.py`
